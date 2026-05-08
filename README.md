@@ -12,10 +12,9 @@ A simple Python program that demonstrates the First-Come, First-Served (FCFS) di
 Make sure Python is installed, then run:
 
 ```bash
-python filename.py
+python Scheduling Algorithm.py
 ```
 
-Replace `filename.py` with your Python file name.
 
 ## Example Input
 
