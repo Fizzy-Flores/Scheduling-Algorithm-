@@ -26,7 +26,7 @@ requests = [98, 183, 37, 122, 14, 124, 65, 67]
 ## Sample Output
 
 ```text
-FCFS I/O DISK SCHEDULING by FLORES and FRANCISCO
+FCFS I/O DISK SCHEDULING by XIAN FLORES and  MARIEL FRANCISCO
 Initial head position         : 50
 Request queue                 : [98, 183, 37, 122, 14, 124, 65, 67]
 
@@ -41,5 +41,5 @@ Average seek                  : 80.38 cylinders/request
 - Lists and Loops
 
 ## Authors
-- Flores
-- Francisco
+- Xian Flores
+- Mariel Francisco
